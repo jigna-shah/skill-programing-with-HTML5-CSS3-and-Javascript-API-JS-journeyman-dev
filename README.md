@@ -7,7 +7,7 @@
 ## [TOPICS]   
   * Detailed programming with HTML5 and CSS
   	- HTML5
-  		- Introduction HTML5
+  	    - Introduction HTML5
   	    - New Tags and Elements
   	    - New Form Elements
   	    - HTML5 Graphics
@@ -17,10 +17,12 @@
   		- HTML5 Adavnced features (i.e. Geolocation, Webstorage, Application Cache, Mobile Phones)
   		
  	 - CSS3
+	        - CSS variables
  	 	- Site Visuals in CSS3
  	 	- Understanding Selectors in CSS 
   	- Javascript API
-  		- Create
+  		- File API, Fetch API
+		- Create
   		- Filter
   		- Tabs
   		- Select
