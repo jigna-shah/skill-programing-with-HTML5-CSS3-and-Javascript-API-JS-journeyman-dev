@@ -2,7 +2,7 @@
 
 ## [PRE-REQUISITES]
   * [Basics of HTML and CSS](https://github.com/jigna-shah/skill-introduction-to-CSS-processor-SaaS-apprentice-dev)
-  * [Basics of Javascript] (https://github.com/jigna-shah/skill-javascript-programming-and-scripting-apprentice-dev)
+  * [Basics of Javascript](https://github.com/jigna-shah/skill-javascript-programming-and-scripting-apprentice-dev)
   
 ## [TOPICS]   
   * Detailed programming with HTML5 and CSS
